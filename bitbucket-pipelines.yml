@@ -1,0 +1,50 @@
+image: node:16
+
+definitions:
+  steps:
+  - step: &build
+      name: Build
+      caches:
+        - node
+      script:
+        - npm install
+        - npm run lint
+        - npm run build
+      artifacts:
+        - dist/**
+
+  - step: &deploy
+      name: Deploy
+      deployment: beta
+      script:
+        # TODO replace with something like process.env.REACT_APP_PROXY_API_URL_DOMAIN
+        - sed -i 's/api.dopaminelabs.ltd/'${API_URL_DOMAIN}'/g' $(find dist/ -type f)
+        - sed -i 's/load.pokercasta.com/'${PROXY_API_URL_DOMAIN}'/g' $(find dist/ -type f)
+        - pipe: atlassian/scp-deploy:0.3.3
+          variables:
+            USER: root
+            SERVER: ${HOST}
+            REMOTE_PATH: ${REMOTE_PATH}
+            LOCAL_PATH: 'dist/*'
+
+pipelines:
+  pull-requests:
+    '**':
+    - step: *build
+    - step:
+        <<: *deploy
+        name: 'deploy to [stage]'
+        deployment: stage
+        trigger: manual
+  branches:
+    master:
+    - step: *build
+    - step:
+        <<: *deploy
+        name: 'deploy to [stage]'
+        deployment: stage
+    - step:
+        <<: *deploy
+        name: 'deploy to [prod]'
+        deployment: prod
+        trigger: manual

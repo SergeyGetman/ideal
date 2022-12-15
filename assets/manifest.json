@@ -1,0 +1,20 @@
+{
+    "name": "PokerCasta",
+    "short_name": "PokerCasta",
+    "description": "PokerCasta",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#40174B",
+    "theme_color": "#40174B",
+    "icons": [
+        {
+            "src": "/images/icons/favicon.png",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/favicon.svg",
+            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512"
+        }
+    ]
+}

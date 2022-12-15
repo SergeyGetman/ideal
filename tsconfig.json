@@ -1,0 +1,43 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "strict": true,
+    "strictNullChecks": false,
+    "strictFunctionTypes": false,
+    "importHelpers": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "rootDir": "./",
+    "outDir": "./dist",
+    "types": ["node"],
+    "typeRoots": ["../node_modules/@types"],
+    "removeComments": false,
+    "experimentalDecorators": true,
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@contexts/*": ["src/contexts/*"],
+      "@routing/*": ["src/routing/*"],
+      "@svg_icons/*": ["src/svg_icons/*"],
+      "@ui": ["src/ui/index.ts"],
+      "@utils/*": ["src/utils/*"],
+      "@containers/*": ["src/containers/*"],
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include":[
+    "declarations.d.ts",
+    "src/**/*"
+  ]
+}

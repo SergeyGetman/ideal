@@ -1,0 +1,1644 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals = 2; plural = (n != 1);\n"
+"Language: en\n"
+"mime-version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/utils/date.ts:55
+msgid "yesterday"
+msgstr ""
+
+#: src/utils/date.ts:57
+msgid "today"
+msgstr ""
+
+#: src/utils/errors.ts:3
+msgid "An error has occurred"
+msgstr ""
+
+#: src/utils/countries/index.ts:5
+msgid "Australia"
+msgstr ""
+
+#: src/utils/countries/index.ts:6
+msgid "Belgium"
+msgstr ""
+
+#: src/pages/client/home/world/utils.ts:29
+#: src/utils/countries/index.ts:7
+msgid "Brazil"
+msgstr ""
+
+#: src/utils/countries/index.ts:8
+msgid "Netherlands"
+msgstr ""
+
+#: src/utils/countries/index.ts:9
+msgid "USA"
+msgstr ""
+
+#: src/components/error404/index.tsx:19
+#: src/pages/error/index.tsx:10
+msgid "Page not found"
+msgstr ""
+
+#: src/pages/client/tournaments/index.tsx:9
+msgid "Tournaments | PokerCasta"
+msgstr ""
+
+#: src/pages/client/streamsWatch/index.tsx:9
+msgid "StreamsWatch | PokerCasta"
+msgstr ""
+
+#: src/pages/client/streams/index.tsx:16
+msgid "TV | PokerCasta"
+msgstr ""
+
+#: src/pages/client/streams/index.tsx:24
+msgid "PokerCasta TV"
+msgstr ""
+
+#: src/pages/client/home/streams/index.tsx:35
+#: src/pages/client/streams/index.tsx:34
+msgid "Video archive"
+msgstr ""
+
+#: src/pages/client/streamersOffer/index.tsx:9
+msgid "Special offer for streamers! | PokerCasta"
+msgstr ""
+
+#: src/pages/client/referral/index.tsx:9
+msgid "Referral | PokerCasta"
+msgstr ""
+
+#: src/pages/client/ranking/index.tsx:9
+msgid "Ranking | PokerCasta"
+msgstr ""
+
+#: src/pages/client/rakeback/index.tsx:9
+msgid "Rakeback | PokerCasta"
+msgstr ""
+
+#: src/pages/client/polices/index.tsx:9
+msgid "Terms and conditions | PokerCasta"
+msgstr ""
+
+#: src/pages/client/newsRead/index.tsx:48
+msgid "Back to all news"
+msgstr ""
+
+#: src/pages/client/articlesRead/index.tsx:52
+#: src/pages/client/newsRead/index.tsx:51
+msgid "Share article"
+msgstr ""
+
+#: src/pages/client/news/index.tsx:59
+msgid "News | PokerCasta"
+msgstr ""
+
+#: src/pages/client/news/index.tsx:67
+msgid "World poker news"
+msgstr ""
+
+#: src/pages/client/news/index.tsx:88
+msgid "Load more news"
+msgstr ""
+
+#: src/pages/client/home/index.tsx:9
+msgid "PokerCasta"
+msgstr ""
+
+#: src/pages/client/home/world/index.tsx:92
+#. const stars = useMemo(() => {
+#. const list = [];
+#. for (let i = 0; i < STARS_COUNT; i++) {
+#. const position = { top: 'auto', right: 'auto', left: 'auto', bottom: 'auto' };
+#. const horizontal = `${Math.random() * 30}%`;
+#. const vertical = `${Math.random() * 30}%`;
+#. Math.random() > 0.5 ? (position.top = vertical) : (position.bottom = vertical);
+#. Math.random() > 0.5 ? (position.left = horizontal) : (position.right = horizontal);
+#. const size = Math.floor(Math.random() * 3 + 3);
+#. list.push({
+#. ...position,
+#. width: size,
+#. height: size,
+#. opacity: Math.random() * 0.5 + 0.3,
+#. animationDuration: `${Math.random() * 2000 + 2000}ms`,
+#. animationDelay: `${Math.random() * 3000}ms`,
+#. });
+#. }
+#. return list;
+#. }, []);
+msgid "united"
+msgstr ""
+
+#: src/pages/client/home/world/index.tsx:94
+#. const stars = useMemo(() => {
+#. const list = [];
+#. for (let i = 0; i < STARS_COUNT; i++) {
+#. const position = { top: 'auto', right: 'auto', left: 'auto', bottom: 'auto' };
+#. const horizontal = `${Math.random() * 30}%`;
+#. const vertical = `${Math.random() * 30}%`;
+#. Math.random() > 0.5 ? (position.top = vertical) : (position.bottom = vertical);
+#. Math.random() > 0.5 ? (position.left = horizontal) : (position.right = horizontal);
+#. const size = Math.floor(Math.random() * 3 + 3);
+#. list.push({
+#. ...position,
+#. width: size,
+#. height: size,
+#. opacity: Math.random() * 0.5 + 0.3,
+#. animationDuration: `${Math.random() * 2000 + 2000}ms`,
+#. animationDelay: `${Math.random() * 3000}ms`,
+#. });
+#. }
+#. return list;
+#. }, []);
+msgid "a huge number of players from all over the world, available in"
+msgstr ""
+
+#: src/pages/client/home/world/index.tsx:95
+#. const stars = useMemo(() => {
+#. const list = [];
+#. for (let i = 0; i < STARS_COUNT; i++) {
+#. const position = { top: 'auto', right: 'auto', left: 'auto', bottom: 'auto' };
+#. const horizontal = `${Math.random() * 30}%`;
+#. const vertical = `${Math.random() * 30}%`;
+#. Math.random() > 0.5 ? (position.top = vertical) : (position.bottom = vertical);
+#. Math.random() > 0.5 ? (position.left = horizontal) : (position.right = horizontal);
+#. const size = Math.floor(Math.random() * 3 + 3);
+#. list.push({
+#. ...position,
+#. width: size,
+#. height: size,
+#. opacity: Math.random() * 0.5 + 0.3,
+#. animationDuration: `${Math.random() * 2000 + 2000}ms`,
+#. animationDelay: `${Math.random() * 3000}ms`,
+#. });
+#. }
+#. return list;
+#. }, []);
+msgid "120 countries in 15 languages"
+msgstr ""
+
+#: src/pages/client/home/world/utils.ts:17
+msgid "Canada"
+msgstr ""
+
+#: src/pages/client/home/world/utils.ts:23
+msgid "Mexico"
+msgstr ""
+
+#: src/pages/client/home/world/utils.ts:35
+msgid "Germany"
+msgstr ""
+
+#: src/pages/client/home/world/utils.ts:41
+msgid "S.Africa"
+msgstr ""
+
+#: src/pages/client/home/world/utils.ts:47
+msgid "Russia"
+msgstr ""
+
+#: src/pages/client/home/world/utils.ts:53
+msgid "China"
+msgstr ""
+
+#: src/pages/client/home/world/utils.ts:59
+msgid "India"
+msgstr ""
+
+#: src/pages/client/home/tournaments/winners/index.tsx:54
+msgid "Top tournament winners of the month"
+msgstr ""
+
+#: src/pages/client/home/tournaments/winners/index.tsx:68
+msgid "place"
+msgstr ""
+
+#: src/pages/client/home/tournaments/winners/index.tsx:69
+msgid "player"
+msgstr ""
+
+#: src/pages/client/home/tournaments/winners/index.tsx:70
+msgid "country"
+msgstr ""
+
+#: src/pages/client/home/tournaments/winners/index.tsx:71
+msgid "reward"
+msgstr ""
+
+#: src/pages/client/home/tournaments/winners/index.tsx:119
+msgid "Select date"
+msgstr ""
+
+#: src/pages/client/home/tournaments/announcements/index.tsx:44
+msgid "Top stakes"
+msgstr ""
+
+#: src/components/bonusesList/index.tsx:25
+#: src/pages/client/home/bonuses/index.tsx:29
+#: src/pages/client/home/tournaments/announcements/index.tsx:48
+msgid "Show all"
+msgstr ""
+
+#: src/pages/client/home/streams/index.tsx:27
+msgid "PokerСasta"
+msgstr ""
+
+#: src/pages/client/home/streams/index.tsx:27
+msgid "TV"
+msgstr ""
+
+#: src/pages/client/home/promo/table/index.tsx:39
+msgid "Watch presentation"
+msgstr ""
+
+#: src/pages/client/home/promo/table/index.tsx:82
+msgid "Promo video"
+msgstr ""
+
+#: src/components/layout/client/downloadBanner/index.tsx:77
+#: src/components/layout/client/menu/index.tsx:36
+#: src/components/locationBreadcrumbs/utils.ts:9
+#: src/pages/client/home/promo/table/index.tsx:90
+msgid "Download"
+msgstr ""
+
+#: src/pages/client/home/promo/table/index.tsx:90
+msgid "Download & play"
+msgstr ""
+
+#: src/pages/client/home/promo/advantages/utils.ts:14
+msgid "Effective rating system"
+msgstr ""
+
+#: src/pages/client/home/promo/advantages/utils.ts:20
+msgid "Ultimate bot protection"
+msgstr ""
+
+#: src/pages/client/home/promo/advantages/utils.ts:26
+msgid "Best bonus policy"
+msgstr ""
+
+#: src/pages/client/home/promo/advantages/utils.ts:32
+msgid "Profitable referral program"
+msgstr ""
+
+#: src/pages/client/home/news/index.tsx:39
+msgid "Poker news"
+msgstr ""
+
+#: src/pages/client/home/news/index.tsx:43
+msgid "Show all news"
+msgstr ""
+
+#: src/pages/client/home/bonuses/index.tsx:24
+msgid "Great conditions and bonuses"
+msgstr ""
+
+#: src/pages/client/home/articles/index.tsx:31
+msgid "Poker rules and training"
+msgstr ""
+
+#: src/pages/client/home/articles/index.tsx:35
+msgid "All teaching articles"
+msgstr ""
+
+#: src/pages/client/faq/index.tsx:9
+msgid "FAQ | PokerCasta"
+msgstr ""
+
+#: src/pages/client/emailConfirmation/index.tsx:19
+msgid "Email confirmation | PokerCasta"
+msgstr ""
+
+#: src/pages/client/download/index.tsx:9
+msgid "Download | PokerCasta"
+msgstr ""
+
+#: src/pages/client/depositBonus/index.tsx:9
+msgid "Deposit Bonus | PokerCasta"
+msgstr ""
+
+#: src/pages/client/contacts/index.tsx:9
+msgid "Contacts | PokerCasta"
+msgstr ""
+
+#: src/pages/client/botProtection/index.tsx:9
+msgid "BotProtection | PokerCasta"
+msgstr ""
+
+#: src/pages/client/bonuses/index.tsx:9
+msgid "Bonuses | PokerCasta"
+msgstr ""
+
+#: src/pages/client/articlesRead/index.tsx:49
+msgid "Back to all articles"
+msgstr ""
+
+#: src/pages/client/articles/index.tsx:41
+msgid "Articles | PokerCasta"
+msgstr ""
+
+#: src/pages/client/articles/index.tsx:45
+msgid "Poker education"
+msgstr ""
+
+#: src/pages/client/articles/index.tsx:52
+msgid "Load more articles"
+msgstr ""
+
+#: src/components/underConstruction/index.tsx:24
+msgid "Under construction..."
+msgstr ""
+
+#: src/components/underConstruction/index.tsx:25
+msgid "All information for this page coming soon."
+msgstr ""
+
+#: src/components/news/utils.ts:33
+#: src/components/tournaments/index.tsx:16
+msgid "Tournaments"
+msgstr ""
+
+#: src/components/toggleButton/index.tsx:16
+msgid "Hide"
+msgstr ""
+
+#: src/components/toggleButton/index.tsx:22
+msgid "Show"
+msgstr ""
+
+#: src/components/streams/list.tsx:26
+msgid "viewers"
+msgstr ""
+
+#: src/components/streams/list.tsx:27
+msgid "viewer"
+msgid_plural "viewers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/components/streams/list.tsx:31
+msgid "views"
+msgstr ""
+
+#: src/components/streams/list.tsx:32
+msgid "view"
+msgid_plural "views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/components/streams/list.tsx:76
+msgid "Live"
+msgstr ""
+
+#: src/components/streams/list.tsx:89
+msgid "Live stream"
+msgstr ""
+
+#: src/components/streams/list.tsx:89
+msgid "Final table"
+msgstr ""
+
+#: src/components/news/utils.ts:6
+#: src/components/streams/utils.ts:6
+msgid "By popularity"
+msgstr ""
+
+#: src/components/news/utils.ts:10
+#: src/components/streams/utils.ts:10
+msgid "By date"
+msgstr ""
+
+#: src/components/news/utils.ts:14
+#: src/components/streams/utils.ts:14
+msgid "By comments"
+msgstr ""
+
+#: src/components/news/utils.ts:18
+#: src/components/streams/utils.ts:18
+msgid "By views"
+msgstr ""
+
+#: src/components/news/sort/index.tsx:38
+#: src/components/streams/sort/index.tsx:38
+msgid "Sort by"
+msgstr ""
+
+#: src/components/streamersOffer/index.tsx:20
+msgid "Special offer for streamers!"
+msgstr ""
+
+#: src/components/bonuses/index.tsx:53
+#: src/components/depositBonus/index.tsx:87
+#: src/components/rakeback/index.tsx:81
+#: src/components/referral/steps/index.tsx:120
+#: src/components/streamersOffer/index.tsx:37
+msgid "Frequently asked question about bonuses"
+msgstr ""
+
+#: src/components/showMoreButton/index.tsx:31
+msgid "Show more"
+msgstr ""
+
+#: src/components/share/index.tsx:59
+msgid "Share"
+msgstr ""
+
+#: src/components/referral/index.tsx:15
+msgid "Friendship wins... and so do you!"
+msgstr ""
+
+#: src/components/referral/index.tsx:20
+msgid "PokerCasta referral program: unique conditions, enjoyable rewards"
+msgstr ""
+
+#: src/components/referral/index.tsx:23
+msgid ""
+"Most poker rooms ruin the concept of the referral program: a lot of "
+"ridiculous conditions almost impossible to meet, scanty reward and no "
+"pleasure from the game."
+msgstr ""
+
+#: src/components/referral/index.tsx:26
+#, javascript-format
+msgid ""
+"At PokerCasta, we value not just our players but also their close friends. "
+"That’s why we have developed a unique referral program that is available "
+"only in our poker room. Invite your friends to PokerCasta and get ${ "
+"bonusConfig.referral_bonus_percentage }% of your friend's rake! The money "
+"goes to your stack at the table during the game."
+msgstr ""
+
+#: src/components/referral/index.tsx:29
+msgid "Our only condition is — no extra conditions!"
+msgstr ""
+
+#: src/components/referral/steps/index.tsx:28
+msgid "All you have to do is to follow these 4 simple steps:"
+msgstr ""
+
+#: src/components/referral/steps/index.tsx:96
+msgid ""
+"Our referral program is the perfect way to celebrate your friend's gaming "
+"success."
+msgstr ""
+
+#: src/components/referral/steps/index.tsx:99
+msgid ""
+"Friends, poker and PokerCasta are a win-win-win combination with the money "
+"prize at the end!"
+msgstr ""
+
+#: src/components/bonuses/index.tsx:34
+#: src/components/botProtection/index.tsx:89
+#: src/components/depositBonus/index.tsx:69
+#: src/components/rakeback/index.tsx:63
+#: src/components/referral/steps/index.tsx:105
+msgid "Always yours,"
+msgstr ""
+
+#: src/components/referral/steps/utils.tsx:13
+msgid "Create an account"
+msgstr ""
+
+#: src/components/referral/steps/utils.tsx:15
+msgid "if you still don't have one"
+msgstr ""
+
+#: src/components/referral/steps/utils.tsx:21
+msgid "Сlick the \"copy referral link\" button on the account page"
+msgstr ""
+
+#: src/components/referral/steps/utils.tsx:25
+msgid "Send the link to a friend via whatever channel you prefer"
+msgstr ""
+
+#: src/components/referral/steps/utils.tsx:31
+msgid "Get the reward for bringing a friend right at the game table."
+msgstr ""
+
+#: src/components/referral/steps/utils.tsx:33
+msgid "Enjoy playing in the PokerCasta room with your friends."
+msgstr ""
+
+#: src/components/ranking/index.tsx:16
+msgid "Famous rating system"
+msgstr ""
+
+#: src/components/ranking/rankingContentPage/ranking.tsx:114
+msgid "PokerCasta offers a revolutionary approach to poker"
+msgstr ""
+
+#: src/components/ranking/rankingContentPage/ranking.tsx:116
+#. introduction: jt`${(<IntroductionText />)}`,
+msgid ""
+"We decided to do it our way so you can enjoy playing equel-level gamers \n"
+"and not be intimidated or bored when the poker skill of your opponents is "
+"drastically different from yours."
+msgstr ""
+
+#: src/components/ranking/rankingContentPage/ranking.tsx:120
+#. peers: jt`${(<PeersTitle />)}`,
+#. peerTextDesktop: jt`${(<PeersTextDesktop />)}`,
+msgid ""
+"Make a cup of your favourite beverage, click the button, and dive into the "
+"world of smart poker \n"
+"to enjoy your day and your game."
+msgstr ""
+
+#: src/components/rakeback/index.tsx:34
+#, javascript-format
+msgid "Rakeback bonus ${ gradientText } just for you!"
+msgstr ""
+
+#: src/components/rakeback/index.tsx:42
+msgid "Let us tell you about our rakeback bonus policy."
+msgstr ""
+
+#: src/components/rakeback/index.tsx:45
+msgid "And yet again, it's a very simple and straightforward one."
+msgstr ""
+
+#: src/components/rakeback/index.tsx:48
+msgid ""
+"Other rooms might have confusing multi-level-tiered programs and vague "
+"terms and conditions, but just like with other types of bonuses, it's not "
+"about us."
+msgstr ""
+
+#: src/components/rakeback/index.tsx:51
+msgid ""
+"PokerCasta is the only room that offers an instant rakeback. Just get to "
+"showdown and claim your bonus."
+msgstr ""
+
+#: src/components/rakeback/index.tsx:54
+#, javascript-format
+msgid ""
+"You don't have to wait for a certain amount of money or reach any specific "
+"levels of play — even a ${ bonusConfig.currency_sign }0.01 bonus is paid "
+"instantly. As always — there are no additional requirements and no strings "
+"attached."
+msgstr ""
+
+#: src/components/rakeback/index.tsx:57
+msgid ""
+"Just sit back, relax and have fun. Our expert team has taken care of "
+"everything else."
+msgstr ""
+
+#: src/components/polices/index.tsx:19
+msgid "General terms & conditions, Gaming & CUSTOMER POLICY"
+msgstr ""
+
+#: src/components/polices/utils.ts:12
+msgid "Terms and Conditions"
+msgstr ""
+
+#: src/components/polices/utils.ts:16
+msgid "Underage policy"
+msgstr ""
+
+#: src/components/polices/utils.ts:20
+msgid "Know your customer policy"
+msgstr ""
+
+#: src/components/polices/utils.ts:24
+msgid "Risk Management and Procedures"
+msgstr ""
+
+#: src/components/polices/utils.ts:28
+msgid "Responsible Gaming Policy"
+msgstr ""
+
+#: src/components/polices/utils.ts:32
+msgid "Privacy Policy"
+msgstr ""
+
+#: src/components/polices/utils.ts:36
+msgid "Withdrawal Policy"
+msgstr ""
+
+#: src/components/polices/utils.ts:40
+msgid "Refund Policy"
+msgstr ""
+
+#: src/components/news/utils.ts:25
+msgid "Industry"
+msgstr ""
+
+#: src/components/news/utils.ts:29
+msgid "Online poker"
+msgstr ""
+
+#: src/components/news/utils.ts:37
+msgid "Players"
+msgstr ""
+
+#: src/components/news/utils.ts:41
+msgid "Celebrities"
+msgstr ""
+
+#: src/components/news/utils.ts:45
+msgid "Interview"
+msgstr ""
+
+#: src/components/news/tags/index.tsx:16
+msgid "All categories"
+msgstr ""
+
+#: src/components/logoutButton/index.tsx:12
+msgid "Logout"
+msgstr ""
+
+#: src/components/auth/forgotPassword/components/successForgotPasswordRequest/index.tsx:25
+#: src/components/emailConfirmation/index.tsx:43
+#: src/components/locationBreadcrumbs/index.tsx:17
+msgid "Home"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:11
+#: src/components/layout/client/menu/index.tsx:14
+#: src/components/layout/client/portableMenu/index.tsx:20
+#: src/components/locationBreadcrumbs/utils.ts:4
+msgid "Bonuses"
+msgstr ""
+
+#: src/components/auth/preSignUp/birthDayBackground.tsx:54
+#: src/components/bonusesList/ListBonusesObjects.tsx:23
+#: src/components/bonusesList/utils.tsx:21
+#: src/components/layout/client/footerNavigation/index.tsx:14
+#: src/components/locationBreadcrumbs/utils.ts:5
+msgid "Deposit Bonus"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:16
+#: src/components/locationBreadcrumbs/utils.ts:6
+msgid "Rakeback"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:15
+#: src/components/layout/client/menu/index.tsx:15
+#: src/components/layout/client/portableMenu/index.tsx:21
+#: src/components/locationBreadcrumbs/utils.ts:7
+msgid "Referral program"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpSubmitError.tsx:21
+#: src/components/emailConfirmation/index.tsx:30
+#: src/components/layout/client/footerNavigation/index.tsx:37
+#: src/components/layout/client/menu/index.tsx:20
+#: src/components/layout/client/portableMenu/index.tsx:26
+#: src/components/locationBreadcrumbs/utils.ts:8
+msgid "Contacts"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:21
+#: src/components/layout/client/menu/index.tsx:18
+#: src/components/layout/client/portableMenu/index.tsx:24
+#: src/components/locationBreadcrumbs/utils.ts:10
+msgid "Faq"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:13
+#: src/components/layout/client/menu/index.tsx:17
+#: src/components/layout/client/portableMenu/index.tsx:23
+#: src/components/locationBreadcrumbs/utils.ts:11
+msgid "News"
+msgstr ""
+
+#: src/components/locationBreadcrumbs/utils.ts:12
+msgid "Poker rules and trainings"
+msgstr ""
+
+#: src/components/locationBreadcrumbs/utils.ts:13
+msgid "Terms and conditions"
+msgstr ""
+
+#: src/components/locationBreadcrumbs/utils.ts:14
+msgid "Streams"
+msgstr ""
+
+#: src/components/locationBreadcrumbs/utils.ts:15
+msgid "Bot protection"
+msgstr ""
+
+#: src/components/emailConfirmation/index.tsx:64
+#: src/components/locationBreadcrumbs/utils.ts:16
+msgid "Email confirmation"
+msgstr ""
+
+#: src/components/locationBreadcrumbs/utils.ts:17
+msgid "For streamers"
+msgstr ""
+
+#: src/components/locationBreadcrumbs/utils.ts:18
+msgid "Ranking"
+msgstr ""
+
+#: src/components/layout/client/topPanel/components/socialLinksSection/index.tsx:12
+msgid "Follow us"
+msgstr ""
+
+#: src/components/layout/client/topPanel/components/selectLocale/index.tsx:33
+msgid "Select language"
+msgstr ""
+
+#: src/components/layout/client/portableMenu/components/selectLanguageSection/index.tsx:14
+#: src/components/layout/client/topPanel/components/languagesAndSupportSection/index.tsx:19
+msgid "available in 120 countries in 15 languages:"
+msgstr ""
+
+#: src/components/contacts/index.tsx:49
+#: src/components/layout/client/faq/index.tsx:31
+#: src/components/layout/client/topPanel/components/languagesAndSupportSection/index.tsx:30
+msgid "Support"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:10
+#: src/components/layout/client/portableMenu/index.tsx:19
+msgid "Home page"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:12
+#: src/components/layout/client/menu/index.tsx:16
+#: src/components/layout/client/portableMenu/index.tsx:22
+msgid "Policies"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:19
+#: src/components/layout/client/menu/index.tsx:19
+#: src/components/layout/client/portableMenu/index.tsx:25
+msgid "Rules"
+msgstr ""
+
+#: src/components/layout/client/portableMenu/components/socialLinksSection/index.tsx:19
+msgid "We are in socials"
+msgstr ""
+
+#: src/components/layout/client/header/index.tsx:29
+#: src/components/layout/client/portableMenu/components/pokerCastaTagline/index.tsx:10
+msgid "Home poker online"
+msgstr ""
+
+#: src/components/layout/client/header/index.tsx:30
+#: src/components/layout/client/portableMenu/components/pokerCastaTagline/index.tsx:11
+msgid "Join recreational poker community!"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/updatePassword/successPasswordUpdate/index.tsx:30
+#: src/components/layout/client/portableMenu/components/buttonSignInUp/ButtonSignInUp.tsx:19
+msgid "Sign In"
+msgstr ""
+
+#: src/components/layout/client/portableMenu/components/buttonSignInUp/ButtonSignInUp.tsx:22
+msgid "Sign Up"
+msgstr ""
+
+#: src/components/layout/client/portableMenu/components/buttonSignInUp/ButtonSignInUp.tsx:30
+msgid "bonus!"
+msgstr ""
+
+#: src/components/download/index.tsx:60
+#: src/components/download/index.tsx:73
+#: src/components/download/index.tsx:82
+#: src/components/layout/client/portableMenu/components/buttonOfDownload/index.tsx:16
+msgid "Download "
+msgstr ""
+
+#: src/components/layout/client/footerSocials/FooterSocials.tsx:14
+msgid "We are in social:"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:17
+msgid "Rating System"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:18
+msgid "Bot Protection"
+msgstr ""
+
+#: src/components/layout/client/footerNavigation/index.tsx:20
+msgid "Videos"
+msgstr ""
+
+#: src/components/layout/client/faq/index.tsx:19
+msgid "Still have a Question?"
+msgstr ""
+
+#: src/components/layout/client/faq/index.tsx:24
+msgid "FAQ"
+msgstr ""
+
+#: src/components/layout/client/downloadBanner/index.tsx:54
+msgid "Win with PokerCasta"
+msgstr ""
+
+#: src/components/layout/client/downloadBanner/index.tsx:55
+msgid "Join our family!"
+msgstr ""
+
+#: src/components/layout/client/downloadBanner/index.tsx:58
+msgid "Available on"
+msgstr ""
+
+#: src/components/inputPassword/index.tsx:25
+msgid "Hide password"
+msgstr ""
+
+#: src/components/inputPassword/index.tsx:25
+msgid "Show password"
+msgstr ""
+
+#: src/components/feedback/index.tsx:15
+msgid "Feedback or Report an issue"
+msgstr ""
+
+#: src/components/feedback/index.tsx:16
+msgid ""
+"Send us your feedback - we want to hear it! Or if you see any bug that we "
+"can fix!"
+msgstr ""
+
+#: src/components/feedback/index.tsx:22
+msgid "Discuss on Telegram"
+msgstr ""
+
+#: src/components/feedback/index.tsx:23
+msgid "Join our team and the community on our Telegram chat channel."
+msgstr ""
+
+#: src/components/feedback/index.tsx:29
+msgid "Get help"
+msgstr ""
+
+#: src/components/feedback/index.tsx:30
+msgid "Visit our help center or get in touch with our customer support team."
+msgstr ""
+
+#: src/components/feedback/index.tsx:74
+msgid "Let’s make Poker casta better, together"
+msgstr ""
+
+#: src/components/faq/index.tsx:34
+msgid "Frequently asked question"
+msgstr ""
+
+#: src/components/faq/index.tsx:40
+msgid "Hello, how can we help?"
+msgstr ""
+
+#: src/components/faq/index.tsx:40
+#, javascript-format
+msgid "Search results for the query “${ searchValue }”"
+msgstr ""
+
+#: src/components/faq/index.tsx:53
+msgid "or choose a category to quickly find the help you need"
+msgstr ""
+
+#: src/components/faq/tabs/index.tsx:13
+msgid "Getting started"
+msgstr ""
+
+#: src/components/faq/tabs/index.tsx:14
+msgid ""
+"In this section, we have collected all the possible questions and answers "
+"you are interested in on the topic \"how to start playing with a Pokercast\""
+msgstr ""
+
+#: src/components/faq/tabs/index.tsx:19
+msgid "User area"
+msgstr ""
+
+#: src/components/faq/tabs/index.tsx:25
+msgid "Deposit & withdrawal"
+msgstr ""
+
+#: src/components/faq/tabs/index.tsx:31
+msgid "Mobile application"
+msgstr ""
+
+#: src/components/faq/search/index.tsx:40
+msgid "Ask a question..."
+msgstr ""
+
+#: src/components/faq/search/index.tsx:51
+msgid "Search"
+msgstr ""
+
+#: src/components/errcatch/index.tsx:27
+msgid "Render error"
+msgstr ""
+
+#: src/components/emailConfirmation/index.tsx:25
+msgid "Oops, something went wrong. Email confirmation failed."
+msgstr ""
+
+#: src/components/emailConfirmation/index.tsx:26
+msgid "Contact us and we'll resolve your problem."
+msgstr ""
+
+#: src/components/emailConfirmation/index.tsx:39
+msgid "Congratulations! email confirmed."
+msgstr ""
+
+#: src/components/download/index.tsx:29
+msgid "Thank you for downloading PokerCasta"
+msgstr ""
+
+#: src/components/download/index.tsx:36
+msgid "The app downloading will now start automatically..."
+msgstr ""
+
+#: src/components/download/index.tsx:39
+msgid "Having issues installing?"
+msgstr ""
+
+#: src/components/download/index.tsx:41
+msgid "Installation Guide"
+msgstr ""
+
+#: src/components/download/index.tsx:47
+msgid ""
+"If you need a different version of the installation package for a different "
+"operating system, you can find it here"
+msgstr ""
+
+#: src/components/download/index.tsx:54
+msgid "All available versions of the PokerCasta app"
+msgstr ""
+
+#: src/components/download/index.tsx:58
+msgid "For Windows (XP, Vista, 7, 8, 10)"
+msgstr ""
+
+#: src/components/download/index.tsx:62
+msgid "PokerCastaOnlineInstaller.exe"
+msgstr ""
+
+#: src/components/download/index.tsx:64
+msgid " or "
+msgstr ""
+
+#: src/components/download/index.tsx:66
+msgid "PokerCastaInstaller.exe"
+msgstr ""
+
+#: src/components/download/index.tsx:68
+#: src/components/download/index.tsx:77
+#: src/components/download/index.tsx:86
+msgid " installation file"
+msgstr ""
+
+#: src/components/download/index.tsx:71
+msgid ""
+"For MacOS X (Lion, Mavericks, Yosemite, El Capitan, Sierra, High Sierra, "
+"Mohave)"
+msgstr ""
+
+#: src/components/download/index.tsx:75
+msgid "PokerCastaInstaller.dmg"
+msgstr ""
+
+#: src/components/download/index.tsx:80
+msgid "For Android (12.0.2)"
+msgstr ""
+
+#: src/components/download/index.tsx:84
+msgid "PokerCastaInstaller.apk"
+msgstr ""
+
+#: src/components/download/index.tsx:89
+msgid "For iOS (14.5.1)"
+msgstr ""
+
+#: src/components/download/index.tsx:91
+msgid "Visit "
+msgstr ""
+
+#: src/components/download/index.tsx:98
+msgid "App Store"
+msgstr ""
+
+#: src/components/depositBonus/index.tsx:27
+#, javascript-format
+msgid "Get ${ gradientText } deposit bonus right now!"
+msgstr ""
+
+#: src/components/depositBonus/index.tsx:34
+msgid ""
+"‘Transparency is the new bonus policy’ or Why PokerCasta Is The Best Room "
+"To Play In"
+msgstr ""
+
+#: src/components/depositBonus/index.tsx:38
+msgid ""
+"VIP points, scores and credits — these are words that discourage even "
+"experienced poker players. Instead of a pleasant game, poker rooms offer a "
+"long list of complex conditions written in horrible legal language."
+msgstr ""
+
+#: src/components/depositBonus/index.tsx:41
+msgid "Violate them — even without knowing — and you lose all your privileges."
+msgstr ""
+
+#: src/components/depositBonus/index.tsx:44
+msgid ""
+"Also, players are often limited in time making it extremely difficult to "
+"win bonuses back, as well as withdraw money to a bank account. Some bonuses "
+"cancel others, and others dissolve into plain air if you do not play at "
+"certain stakes."
+msgstr ""
+
+#: src/components/depositBonus/index.tsx:47
+msgid "It’s tiring and distracting. It’s annoying. It’s wasting your time."
+msgstr ""
+
+#: src/components/depositBonus/index.tsx:63
+msgid ""
+"It's not magic. It's respect for our customers. It’s fair play. Because we "
+"are here to make your game exciting and profitable with — "
+msgstr ""
+
+#: src/components/depositBonus/index.tsx:64
+msgid "Transparency. Real bonuses. Easy living."
+msgstr ""
+
+#: src/components/depositBonus/claim/index.tsx:31
+msgid "So we asked ourselves — how can we change this?"
+msgstr ""
+
+#: src/components/depositBonus/claim/index.tsx:33
+msgid "And the answer is simple — with honesty and simplicity."
+msgstr ""
+
+#: src/components/depositBonus/claim/index.tsx:42
+#, javascript-format
+msgid ""
+"Claim ${ bonusConfig.currency_sign }${ bonusConfig.deposit_bonus_size } "
+"BONUS NOW"
+msgstr ""
+
+#: src/components/depositBonus/claim/index.tsx:50
+msgid "We suggest you save your time and claim your bonus with PokerCasta."
+msgstr ""
+
+#: src/components/depositBonus/claim/index.tsx:53
+#, javascript-format
+msgid ""
+"A ${ bonusConfig.currency_sign }${ bonusConfig.deposit_bonus_size } deposit "
+"for your pleasure is sent to your stack right at the table during the "
+"showdown. All you have to do is to simply play poker."
+msgstr ""
+
+#: src/components/depositBonus/banner/index.tsx:20
+msgid "Video tutorial"
+msgstr ""
+
+#: src/components/depositBonus/banner/index.tsx:21
+msgid "How to get deposit bonus"
+msgstr ""
+
+#: src/components/currentUser/index.tsx:30
+msgid "Balance:"
+msgstr ""
+
+#: src/components/contacts/index.tsx:36
+msgid "Feel free to contact us, we’re very friendly"
+msgstr ""
+
+#: src/components/contacts/index.tsx:43
+msgid ""
+"We love all our users and are attentive to all requirements and wishes "
+"regarding our service."
+msgstr ""
+
+#: src/components/contacts/index.tsx:56
+msgid "Social contacts"
+msgstr ""
+
+#: src/components/auth/forgotPassword/index.tsx:68
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:75
+#: src/components/auth/signIn/index.tsx:52
+#: src/components/contacts/form/index.tsx:90
+#: src/components/contacts/utils.ts:35
+msgid "Email"
+msgstr ""
+
+#: src/components/auth/forgotPassword/index.tsx:17
+#: src/components/auth/preSignUp/hooks.ts:79
+#: src/components/auth/preSignUp/validation.ts:34
+#: src/components/auth/signIn/index.tsx:11
+#: src/components/contacts/form/index.tsx:20
+msgid "Please enter a valid email"
+msgstr ""
+
+#: src/components/auth/forgotPassword/index.tsx:18
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:36
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:43
+#: src/components/auth/signIn/index.tsx:12
+#: src/components/auth/signIn/index.tsx:15
+#: src/components/contacts/form/index.tsx:21
+#: src/components/contacts/form/index.tsx:22
+msgid "Required field"
+msgstr ""
+
+#: src/components/contacts/form/index.tsx:59
+msgid "Message sent successfully"
+msgstr ""
+
+#: src/components/contacts/form/index.tsx:80
+msgid "if you have any questions or want to say hello, just write to us!"
+msgstr ""
+
+#: src/components/auth/forgotPassword/index.tsx:69
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:79
+#: src/components/auth/signIn/index.tsx:56
+#: src/components/contacts/form/index.tsx:91
+msgid "Enter your email"
+msgstr ""
+
+#: src/components/contacts/form/index.tsx:99
+msgid "Message"
+msgstr ""
+
+#: src/components/contacts/form/index.tsx:100
+msgid "Your message here"
+msgstr ""
+
+#: src/components/contacts/form/index.tsx:126
+msgid "Send Message"
+msgstr ""
+
+#: src/components/comments/index.tsx:33
+msgid "Comments"
+msgstr ""
+
+#: src/components/comments/index.tsx:54
+msgid "Hide all comments"
+msgstr ""
+
+#: src/components/comments/index.tsx:54
+msgid "Show all comments"
+msgstr ""
+
+#: src/components/comments/item/index.tsx:69
+#: src/components/comments/item/index.tsx:78
+msgid "Reply"
+msgstr ""
+
+#: src/components/comments/form/index.tsx:38
+msgid "Your comment saved successfully! Will be shown after moderator checked."
+msgstr ""
+
+#: src/components/comments/form/index.tsx:75
+msgid "Your comment"
+msgstr ""
+
+#: src/components/comments/form/index.tsx:80
+msgid "Cancel"
+msgstr ""
+
+#: src/components/comments/form/index.tsx:93
+msgid "Write a comment..."
+msgstr ""
+
+#: src/components/comments/form/index.tsx:100
+#: src/components/comments/form/index.tsx:111
+msgid "Submit"
+msgstr ""
+
+#: src/components/botProtection/index.tsx:20
+msgid "Effective anti bot protection system"
+msgstr ""
+
+#: src/components/botProtection/index.tsx:28
+msgid "How We Do Bot Protection At PokerCasta"
+msgstr ""
+
+#: src/components/botProtection/index.tsx:31
+msgid ""
+"All major poker rooms have security systems installed in order to provide "
+"bot-free game experience for their users. PokerCasta chose to have "
+"additional security measures in place to prevent bots from interfering."
+msgstr ""
+
+#: src/components/botProtection/index.tsx:35
+msgid "How We Ensure Ultimate Bot Protection "
+msgstr ""
+
+#: src/components/botProtection/index.tsx:38
+msgid ""
+"To make sure you only interact with human players, we have introduced 4 "
+"layers of bot protection:"
+msgstr ""
+
+#: src/components/botProtection/index.tsx:43
+msgid "PATTERTN DETECTION"
+msgstr ""
+
+#: src/components/botProtection/index.tsx:46
+msgid ""
+"Despite the advance of modern technology, computer play is still very "
+"different from that of a human. This includes hand choices, style of play, "
+"consistency, risk assessment, etc."
+msgstr ""
+
+#: src/components/botProtection/index.tsx:49
+msgid ""
+"For example, a bot would make raises with the same occurrence, while a real "
+"person would not. This and other types of behavior are easy to detect as a "
+"pattern and prevent the bot from interfering with the game."
+msgstr ""
+
+#: src/components/botProtection/index.tsx:54
+msgid "CAPTCHA"
+msgstr ""
+
+#: src/components/botProtection/index.tsx:57
+msgid ""
+"You've probably seen a CAPTCHA check on multiple websites. We have it, too, "
+"to protect you and other players from bots."
+msgstr ""
+
+#: src/components/botProtection/index.tsx:60
+msgid ""
+"There are signals that make CAPTCHA checks occur more often - be it a long "
+"period of play or handling multiple tables at once. We use a version of "
+"CAPTCHA that is impossible for a bot to pass by."
+msgstr ""
+
+#: src/components/botProtection/index.tsx:65
+msgid "HUMAN CONTROL"
+msgstr ""
+
+#: src/components/botProtection/index.tsx:68
+msgid ""
+"Although the measures mentioned above can be quite sufficient for bot "
+"protection, we also have a security team in place here, at PokerCasta. This "
+"team is constantly looking for possible suspicious activity and checks "
+"users' reports of such."
+msgstr ""
+
+#: src/components/botProtection/index.tsx:73
+msgid "3RD PARTY DETECTION TOOLS"
+msgstr ""
+
+#: src/components/botProtection/index.tsx:76
+msgid ""
+"Apart from our own pattern detection software we also use specialized 3rd "
+"party detection tools. This additional layer of security helps ensure the "
+"maximum level of safety for our players and allows them to simply enjoy the "
+"game with no second thoughts."
+msgstr ""
+
+#: src/components/botProtection/index.tsx:79
+msgid ""
+"If you have questions about our bot prevention system or would like to "
+"report suspicious activity, please, email us at "
+msgstr ""
+
+#: src/components/bonusesList/ListBonusesObjects.tsx:18
+#: src/components/bonusesList/utils.tsx:17
+msgid "Get"
+msgstr ""
+
+#: src/components/bonusesList/ListBonusesObjects.tsx:34
+#: src/components/bonusesList/utils.tsx:32
+msgid "Invite friend and get"
+msgstr ""
+
+#: src/components/bonusesList/ListBonusesObjects.tsx:35
+#: src/components/bonusesList/utils.tsx:32
+msgid "of his rake"
+msgstr ""
+
+#: src/components/bonusesList/ListBonusesObjects.tsx:46
+#: src/components/bonusesList/utils.tsx:43
+msgid "Rakeback bonus"
+msgstr ""
+
+#: src/components/bonusesList/ListBonusesObjects.tsx:56
+#: src/components/bonusesList/utils.tsx:52
+msgid "Speсial offer for streamers"
+msgstr ""
+
+#: src/components/bonusesList/index.tsx:22
+msgid "Gет more great conditions and bonuses"
+msgstr ""
+
+#: src/components/bonusesList/index.tsx:42
+msgid "More details"
+msgstr ""
+
+#: src/components/bonuses/index.tsx:20
+msgid "All amazing bonuses for your profitable game!"
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:45
+msgid ""
+"Any bonus we offer should be easily understood and \n"
+"easily explained to our audience."
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:55
+msgid "The only thing to care about is enhansing pleasure from playing the game."
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:64
+msgid "Any bonus should be awarded instantly."
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:73
+msgid ""
+"There should be no additional rules that may imply \n"
+"cancelation, retrieval or blocking withdrawal of money including any bonus "
+"funds."
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:83
+msgid "If you qualify for the bonus, the money is yours - period."
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:101
+msgid "Fully transparent bonus policies"
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:102
+msgid ""
+"Here, at PokerCasta, we take a fully transparent approach to making our "
+"bonus policies. \n"
+"It's our conscious choice to make the rules as open and simple as possible."
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:104
+msgid "Here are some basic points that are the cornerstone for our bonuses:"
+msgstr ""
+
+#: src/components/bonuses/bonusesPageText/bonuses.tsx:105
+msgid ""
+"We, at PokerCasta, aim to be the only room where you get your full bonuses "
+"with no strings attached."
+msgstr ""
+
+#: src/components/autocomplete/index.tsx:130
+msgid "No values"
+msgstr ""
+
+#: src/components/autocomplete/index.tsx:131
+msgid "Loading..."
+msgstr ""
+
+#: src/components/auth/signIn/index.tsx:18
+msgid ""
+"Must Contain 8 Characters, One Uppercase, One Lowercase, One Number and one "
+"special case Character"
+msgstr ""
+
+#: src/components/auth/authTypeActionBar/signUpActions.tsx:19
+#: src/components/auth/signIn/index.tsx:45
+#: src/components/auth/signIn/index.tsx:79
+msgid "Sign in"
+msgstr ""
+
+#: src/components/auth/signIn/index.tsx:62
+msgid "Password"
+msgstr ""
+
+#: src/components/auth/signIn/index.tsx:64
+msgid "Enter your password"
+msgstr ""
+
+#: src/components/auth/signIn/index.tsx:68
+msgid "Remember me"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:39
+msgid ""
+"Password must contain 8 characters, one uppercase, one lowercase, one "
+"number and one special case character"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/invalidRecaveryKey/index.tsx:12
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:97
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:104
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:106
+msgid "New password"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:112
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:114
+msgid "New password again"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/updatePassword/index.tsx:126
+msgid "Change password"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/updatePassword/successPasswordUpdate/index.tsx:13
+#: src/components/auth/recoveryPassword/components/updatePassword/unSuccessPasswordUpdate/index.tsx:13
+msgid "new password"
+msgstr ""
+
+#: src/components/auth/forgotPassword/components/unsuccessForgotPasswordRequest/index.tsx:17
+#: src/components/auth/recoveryPassword/components/updatePassword/unSuccessPasswordUpdate/index.tsx:16
+msgid "Oops, something went wrong."
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/updatePassword/unSuccessPasswordUpdate/index.tsx:22
+msgid "Password failed to change, contact support!"
+msgstr ""
+
+#: src/components/auth/forgotPassword/components/unsuccessForgotPasswordRequest/index.tsx:26
+#: src/components/auth/recoveryPassword/components/updatePassword/unSuccessPasswordUpdate/index.tsx:25
+msgid "CONTACTS"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/updatePassword/successPasswordUpdate/index.tsx:21
+msgid "Password changed successfuly!"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/updatePassword/successPasswordUpdate/index.tsx:27
+msgid "You can now sign in with your new password"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/invalidRecaveryKey/index.tsx:22
+msgid "Password recovery key is wrong or expired"
+msgstr ""
+
+#: src/components/auth/recoveryPassword/components/invalidRecaveryKey/index.tsx:32
+msgid "SEND LINK AGAIN"
+msgstr ""
+
+#: src/components/auth/preSignUp/birthDayBackground.tsx:47
+msgid "Happy Birthday!"
+msgstr ""
+
+#: src/components/auth/preSignUp/birthDayBackground.tsx:49
+msgid "Sign up and get"
+msgstr ""
+
+#: src/components/auth/preSignUp/hooks.ts:80
+msgid "Please select country"
+msgstr ""
+
+#: src/components/auth/preSignUp/hooks.ts:82
+msgid "Day field should contain values from 1 to 31"
+msgstr ""
+
+#: src/components/auth/preSignUp/hooks.ts:83
+#: src/components/auth/preSignUp/validation.ts:62
+msgid "Month field should contain values from 1 to 12"
+msgstr ""
+
+#: src/components/auth/preSignUp/hooks.ts:84
+#: src/components/auth/preSignUp/validation.ts:70
+#: src/components/auth/preSignUp/validation.ts:75
+msgid "Please enter correct age"
+msgstr ""
+
+#: src/components/auth/preSignUp/hooks.ts:86
+msgid "Please agree with terms and conditions"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:33
+msgid "terms and conditions"
+msgstr ""
+
+#: src/components/auth/authTypeActionBar/forgotPasswordActions.tsx:27
+#: src/components/auth/authTypeActionBar/signInActions.tsx:32
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:66
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:137
+msgid "Sign up"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:86
+msgid "Country"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:87
+msgid "Select your country"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:112
+msgid "inputs must be: DD on 1 for 31 : MM on 1 for 12 : YYYY min 1940"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:120
+#, javascript-format
+msgid "I agree with ${ termsLink } and confirm I'm at least ${ ruleAge } years old"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpFormFields.tsx:131
+msgid "I would like to receive information by email and/or sms"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpSubmitError.tsx:15
+msgid "Oops, something went wrong. Registration failed!"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpSubmitError.tsx:17
+msgid "Contact us in any possible way and we will help you!"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpSubmitSuccess.tsx:16
+msgid "Thanks for sign up!"
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpSubmitSuccess.tsx:18
+msgid "PokerCasta is coming soon, we'll notify you once we go live."
+msgstr ""
+
+#: src/components/auth/preSignUp/preSignUpSubmitSuccess.tsx:19
+msgid "See you at the tables!"
+msgstr ""
+
+#: src/components/auth/preSignUp/validation.ts:33
+msgid "Email is required"
+msgstr ""
+
+#: src/components/auth/preSignUp/validation.ts:42
+msgid "Country is required"
+msgstr ""
+
+#: src/components/auth/preSignUp/validation.ts:43
+msgid "Country is blocked for select"
+msgstr ""
+
+#: src/components/auth/preSignUp/validation.ts:51
+#: src/components/auth/preSignUp/validation.ts:59
+#: src/components/auth/preSignUp/validation.ts:67
+msgid "Birthday is required"
+msgstr ""
+
+#: src/components/auth/preSignUp/validation.ts:54
+msgid "Day field should contain values from 1 to 31\""
+msgstr ""
+
+#: src/components/auth/preSignUp/validation.ts:77
+msgid "You must agree with terms and conditions"
+msgstr ""
+
+#: src/components/auth/forgotPassword/components/successForgotPasswordRequest/index.tsx:11
+#: src/components/auth/forgotPassword/components/unsuccessForgotPasswordRequest/index.tsx:14
+#: src/components/auth/forgotPassword/index.tsx:58
+msgid "password recovery"
+msgstr ""
+
+#: src/components/auth/forgotPassword/index.tsx:64
+msgid ""
+"We will send you a link to reset your password to the email specified "
+"during registration."
+msgstr ""
+
+#: src/components/auth/forgotPassword/index.tsx:84
+msgid "Send"
+msgstr ""
+
+#: src/components/auth/forgotPassword/components/unsuccessForgotPasswordRequest/index.tsx:23
+msgid "Password recovery email failed to send, contact support!"
+msgstr ""
+
+#: src/components/auth/forgotPassword/components/successForgotPasswordRequest/index.tsx:15
+msgid " SUCCESS!"
+msgstr ""
+
+#: src/components/auth/forgotPassword/components/successForgotPasswordRequest/index.tsx:22
+msgid ""
+"Password recovery email has been sent to your email address, follow the "
+"instructions."
+msgstr ""
+
+#: src/components/auth/birthdayField/index.tsx:36
+msgid "Birthday"
+msgstr ""
+
+#: src/components/auth/birthdayField/index.tsx:39
+msgid "Day"
+msgstr ""
+
+#: src/components/auth/birthdayField/index.tsx:54
+msgid "Month"
+msgstr ""
+
+#: src/components/auth/birthdayField/index.tsx:69
+msgid "Year"
+msgstr ""
+
+#: src/components/auth/authTypeActionBar/forgotPasswordActions.tsx:20
+msgid "Back to sign in"
+msgstr ""
+
+#: src/components/auth/authTypeActionBar/signInActions.tsx:25
+msgid "Forgot your password?"
+msgstr ""
+
+#: src/components/auth/authTypeActionBar/signUpActions.tsx:14
+msgid "Already have an account?"
+msgstr ""

@@ -1,0 +1,12 @@
+{
+  "files": [
+    "./src/glyphs/*.svg"
+  ],
+  "fontName": "pokercasta",
+  "classPrefix": "glyph-",
+  "baseSelector": ".glyph",
+  "types": ["eot", "woff", "woff2", "ttf", "svg"],
+  "fixedWidth": true,
+  "embed": true,
+  "fileName": "app.[fontname].[chunkhash].[ext]"
+}
